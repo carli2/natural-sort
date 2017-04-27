@@ -3,7 +3,7 @@ Sort criteria function that sorts strings in a natural order i.e. treats numbers
 
 ##usage
 ```
-var naturalsort = require('natural-sort');
+var naturalsort = require('natural-sort-lx');
 var strings = ['d', 'c', 'a11', 'a2'];
 strings.sort(naturalsort);
 console.log(strings);
