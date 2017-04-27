@@ -1,0 +1,26 @@
+{
+  "name": "natural-sort",
+  "version": "1.0.0",
+  "description": "Sort criteria function that sorts strings in a natural order i.e. treats numbers in their numeric order.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carli2/natural-sort.git"
+  },
+  "keywords": [
+    "natural",
+    "sort",
+    "sort",
+    "number",
+    "javascript"
+  ],
+  "author": "Carl-Philip Hänsch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carli2/natural-sort/issues"
+  },
+  "homepage": "https://github.com/carli2/natural-sort#readme"
+}
