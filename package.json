@@ -1,6 +1,6 @@
 {
   "name": "natural-sort-lx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sort criteria function that sorts strings in a natural order i.e. treats numbers in their numeric order.",
   "main": "index.js",
   "scripts": {
