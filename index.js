@@ -2,8 +2,8 @@ var number = /^[0-9]$/;
 module.exports = function (a, b) {
 	var ai = 0, bi = 0;
 	while (true) {
-		if (ai >= a.length) return -1;
 		if (bi >= b.length) return 1;
+		if (ai >= a.length) return -1;
 		if (number.test(a[ai]) && number.test(b[bi])) {
 			// sort a number
 			let na = '';
